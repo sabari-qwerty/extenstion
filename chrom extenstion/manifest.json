@@ -1,0 +1,16 @@
+{
+    "name": "open ai",
+    "version": "1.0",
+    "manifest_version": 3,
+    "description": "A simple extension that makes a fetch request.",
+
+    "action": {
+        "default_popup": "popup.html",
+        "default_title": "Simple Extension"
+    },
+    "icons": {
+        "16": "image/16.png",
+        "32": "image/32.png",
+        "48": "image/48.png"
+    }
+}
